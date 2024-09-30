@@ -1,3 +1,8 @@
+html {
+  background: black url('../img/trolling_start.png') no-repeat fixed 100% 100%;
+  opacity: 0.6;
+}
+
 img {
   width: 400px;
   height: 400px;
